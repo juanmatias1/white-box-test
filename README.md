@@ -25,4 +25,4 @@ O sistema verificará as credenciais no banco de dados e informará se o login f
 Este é apenas um exemplo simples de sistema de login em Java e pode ser aprimorado e adaptado para atender às suas necessidades específicas.
 
 # O Sistema foi desenvolvido na IDE Eclise sendo utilizado o SpotBugs/Findbugs como TESTE DE CAIXA BRANCA:
-![image]
+![Capturar](https://github.com/juanmatias1/whiteBox_test/assets/82182479/9b711e72-adc8-4771-8f9d-aa0615e25f72)
