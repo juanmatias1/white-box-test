@@ -48,7 +48,7 @@ Este é apenas um exemplo simples de sistema de login em Java e pode ser aprimor
 
 ## 3. Cálculo da Complexidade Ciclomática:
 
-A fórmula correta para calcular a complexidade ciclomática (V(G)) é:
+A fórmula para calcular a complexidade ciclomática (V(G)) é:
 
 V(G) = E - N + 2P
 
@@ -56,9 +56,9 @@ E = 20 (número de arestas),
 N = 21 (número de nodos),
 P = 1 (um único componente conexo).
 
-V(G) = 20 - 21 + 2 \times 1 = 20
+V(G) = 20 - 21 + 2 x 1 = 20
 
-Então, a complexidade ciclomática para o código é V(G) = 20.
+A complexidade ciclomática para o código é V(G) = 20.
 
 ## 4. Identificação de Caminhos:
 
