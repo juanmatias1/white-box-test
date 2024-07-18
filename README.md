@@ -1,4 +1,4 @@
-# whiteBox_test
+# white-box-test
 Exercício individual - Teste de Caixa Branca (ETAPA 1)
 
 Este é um exemplo simples de um sistema de login em Java que se conecta a um banco de dados MySQL para autenticar um usuário. O sistema consiste em duas classes principais:
